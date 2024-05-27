@@ -1,0 +1,15 @@
+.header {
+  // .header__list
+  &__list {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+  }
+  // .header__item
+  &__item {
+    font-size: 20px;
+    line-height: 120%;
+    color: lightblue;
+  }
+}
